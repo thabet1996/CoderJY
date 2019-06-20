@@ -1,0 +1,7 @@
+{
+  "name": "coderjy",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/cli": "^7.3.5"
+  }
+}
